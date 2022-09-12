@@ -25,5 +25,6 @@ from .vaccination_details_form_validator import VaccineDetailsFormValidator
 from .vaccination_history_form_validator import VaccinationHistoryFormValidator
 from .vital_signs_form_validator import VitalSignsFormValidator
 from .protocol_deviations_form_validator import ProtocolDeviationFormValidator
+from .screen_out_form_validator import ScreenOutFormValidator
 
 
